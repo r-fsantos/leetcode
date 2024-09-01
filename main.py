@@ -6,3 +6,4 @@ from src.sudoku import SudokuSolution  # noqa
 from src.max_count import MaxCount  # noqa
 from src.suffle_the_array import SuffleTheArray  # noqa
 from src.palindrome import Palindrome  # noqa
+from src.has_duplicate import HasDuplicate  # noqa
